@@ -1,4 +1,11 @@
 * {
   font-family: 'Nunito Sans', sans-serif;
   box-sizing: border-box;
+  border: 1px solid red;
+}
+
+body {
+  margin: 0 auto;
+  padding: 3px;
+  background-color: #fff;
 }
